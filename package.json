@@ -1,0 +1,11 @@
+{
+  "name": "openvgdb-snes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "openvgdb": "^1.0.0"
+  }
+}
