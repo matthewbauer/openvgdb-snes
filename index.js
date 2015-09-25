@@ -1,1 +1,1 @@
-var db = require('./db.json')
+module.exports = require('./db.json')
